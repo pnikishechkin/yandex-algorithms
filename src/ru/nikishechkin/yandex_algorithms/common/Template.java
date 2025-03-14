@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- *
+ * Шаблон для задач
  */
 public class Template {
     public static void main(String[] args) {
